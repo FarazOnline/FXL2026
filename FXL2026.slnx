@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="FXL2026.Core/FXL2026.Core.vcxproj" />
+  <Project Path="FXL.Core/FXL.Core.vcxproj" />
 </Solution>
